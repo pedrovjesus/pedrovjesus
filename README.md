@@ -1,4 +1,4 @@
-## Hi there, eu sou o Pedro😁
+## Olá, eu sou o Pedro😁
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrovjesus&show_icons=true&theme=dark" />
