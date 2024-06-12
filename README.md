@@ -8,10 +8,9 @@
 <div>
 <h2>Habilidades e Tecnologias</h2> 
 
-- **Linguagens:** JavaScript, Typescript
-- **Frameworks:** React, Node.js
-- **Ferramentas:** Git, Docker
-- **Outras:** SQL, NoSQL
+- **Linguagens:** JavaScript e Typescript
+- **Frameworks:** React e Node.js
+- **Ferramentas:** Git
 
 <div style="display: inline_block"><br>
     <img align="center" alt="pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
