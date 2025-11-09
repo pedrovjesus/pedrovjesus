@@ -4,7 +4,7 @@ Desenvolvedor Fullstack com foco em criar soluções eficientes e escaláveis.
 Atualmente estudando o ecossistema .NET (C#) e aprofundando meus conhecimentos em arquitetura de sistemas, containers com Docker e aplicações serverless.
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrovjesus&show_icons=true&theme=dark" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovjesus&layout=compact&show_icons=false&theme=dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovjesus&layout=compact&langs_count=6&theme=dark&hide=html,css&exclude_repo=CRUDius-frontend,API_em_TS" />
 </div>
 
 <div>
