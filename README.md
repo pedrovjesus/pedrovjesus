@@ -17,6 +17,7 @@ Currently improving my knowledge in DevOps, infrastructure and software architec
 - **Databases:** MySQL, PostgreSQL
 - **DevOps:** Docker, Docker Compose, Nginx, Traefik, Vercel, Serverless concepts
 - **Architecture:** REST APIs, Modular Architecture, Multi-tenant Systems, Clean Code principles
+- **AI & Automation:** LLM integrations, API-based AI solutions, workflow automation
 - **Tools:** Git, GitHub, Linux
 
  <h2>Experience</h2>
